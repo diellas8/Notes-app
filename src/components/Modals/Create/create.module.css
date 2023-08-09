@@ -1,0 +1,30 @@
+.dropdowns {
+    display: flex;
+    flex-direction: row;
+}
+
+.dropdownCategory {
+    width: 100%;
+}
+
+.footer {
+    margin-top: 100px;
+    display: flex; 
+    justify-content: flex-end;
+}
+
+.footer>button{
+    margin-left: 10px;
+}
+
+.sideWalk {
+    background-color: #67AA3C;
+}
+
+.shoring {
+    background-color: #9640BE;
+}
+
+.scaffold {
+    background-color: #EFD652;
+}
