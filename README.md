@@ -1,4 +1,4 @@
-# To-Do Application
+# NotesApp
 
 This is a project that uses React and CSS.
 Libraries used on this project are Antd, Antd Icons and Classnames.
