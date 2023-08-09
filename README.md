@@ -48,17 +48,17 @@ You can view the details of each product by clicking on its respective entry.
 ![image](https://github.com/diellas8/Notes-app/assets/58296399/5bc69fe1-5785-4668-960b-008a2866c0ec)
 
 <h2>How might you make this app more secure</h2>
-<h4>Password Hashing:</h4> <br>
+<h4>Password Hashing:</h4>
 Store user passwords securely by using strong encryption algorithms and hashing techniques.
-<h4>Frequent Updates:</h4> <br>
+<h4>Frequent Updates:</h4>
 Keep all dependencies and libraries up to date to address more security.
-<h4>Error Handling:</h4> <br>
+<h4>Error Handling:</h4>
 Implement appropriate error handling mechanisms to prevent revealing sensitive information to potential attackers.
 
 <h2>How would you make this solution scale to millions of records?</h2>
-<h4>Database Optimization:</h4> <br>
+<h4>Database Optimization:</h4>
 Query optimization techniques to ensure fast data manipulation.
-<h4>Caching:</h4> <br>
+<h4>Caching:</h4>
 Implement caching mechanisms to store frequently accessed data in memory, reducing the need for repeated database queries.
-<h4>Use CDN:</h4> <br>
+<h4>Use CDN:</h4>
 Utilize a CDN to serve static assets like images, stylesheets, and scripts, reducing the load on your server.
